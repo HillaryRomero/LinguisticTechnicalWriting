@@ -10,12 +10,13 @@ The repository was built in collaboration with the computational linguistics tea
 
 **The creators and editors of the repository were:**
 
-Hillary Romero, semi-senior linguist
-Lino Urdaneta and Rosangela Pulido, senior linguists
-Other additional linguists also at the semi-senior level
-Repository Content
+- Hillary Romero, semi-senior linguist
+- Lino Urdaneta and Rosangela Pulido, senior linguists
+- Other additional linguists also at the semi-senior level
 
-**The repository contains the following types of content:**
+**Repository Content**
+
+The repository contains the following types of content:
 
 - Technical and linguistic documentation: This documentation provides information on how to develop chatbots, including basic concepts of computational linguistics, machine learning, and natural language processing.
 - Corpora: Corpora are sets of text and code data used to train language models. The repository contains corpora in different languages, including Spanish, English, and Portuguese.
@@ -48,9 +49,9 @@ El repositorio fue construido en colaboración con el equipo de lingüística co
 
 **Los redactores correctores del repositorio fueron:**
 
-Hillary Romero, lingüista semi-senior
-Lino Urdaneta y Rosangela Pulido, lingüistas seniors
-Otros lingüistas adicionales también en nivel semi-senior
+- Hillary Romero, lingüista semi-senior
+- Lino Urdaneta y Rosangela Pulido, lingüistas seniors
+- Otros lingüistas adicionales también en nivel semi-senior
 
 **Contenido del repositorio**
 
